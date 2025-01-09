@@ -1,7 +1,7 @@
-from tasks.t0001_matrix_times_vector import matrix_dot_vector
-from tasks.t0002_transpose_of_a_matrix import transpose_matrix
-from tasks.t0003_reshape_matrix import reshape_matrix
-from tasks.t0004_calculate_mean_by_row_or_column import calculate_matrix_mean
+from solutions.s0001_matrix_times_vector import matrix_dot_vector
+from solutions.s0002_transpose_of_a_matrix import transpose_matrix
+from solutions.s0003_reshape_matrix import reshape_matrix
+from solutions.s0004_calculate_mean_by_row_or_column import calculate_matrix_mean
 
 
 # 0001. Matrix times Vector
