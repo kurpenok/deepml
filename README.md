@@ -1,1 +1,1 @@
-# DeepML problems solutions
+# Solving problems from DeepML
