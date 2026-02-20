@@ -7,4 +7,6 @@ requires-python = ">=3.14"
 license = "MIT"
 authors = [{ name = "Kuat Kurpenov", email = "kurpenov2003@yandex.ru" }]
 keywords = ["algorithms", "deepml", "math", "numpy", "python", "pytorch"]
-dependencies = []
+dependencies = [
+    "pytest>=9.0.2",
+]
