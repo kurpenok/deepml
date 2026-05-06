@@ -1,4 +1,4 @@
-from src.s0007_calculate_2x2_matrix_inverse import inverse_2x2
+from src.s0008_calculate_2x2_matrix_inverse import inverse_2x2
 
 
 def test_case_1():
